@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>StudentAuthenticationTestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b59abe67-d433-415e-a424-c19cdc3f45f3</testCaseGuid>
+</TestCaseEntity>

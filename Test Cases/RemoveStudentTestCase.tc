@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RemoveStudentTestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8dfc9a46-c0cd-4fa2-82dc-277e70b9f404</testCaseGuid>
+</TestCaseEntity>
